@@ -1,0 +1,27 @@
+* {
+    background: teal;
+}
+
+p {
+    color: white;
+}
+
+.parrafo, .titulo1, .titulo2 {
+    color: red;
+}
+
+.principal .titulo {
+    background: black;
+}
+
+.titulo2{
+    color: purple;
+}
+
+.titulo.titulo3 {
+    background: blue;
+}
+
+.principal>.titulo, p {
+    color: coral;
+}
